@@ -1,3 +1,6 @@
+# Notice:
+Repo has been archived & contents have been merged to https://github.com/NotAKidOnSteam/NAK_CVR_Mods
+
 # TrackedControllerFix
 lazy af fix for a small issue
 
